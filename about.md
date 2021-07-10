@@ -10,15 +10,12 @@ Introduce your self
 I'm huum4n
 
 # About Me
-Tell more about your self
-I will post about stuff I'm learning
+Will post about stuff I'm learning.
 
-Talk about your projects
 # My first project
 coming soon
 
 
-Link your social accounts
 # Social Accounts
 [Patreon](#) \
 [Github](#) \ https://github.com/huum4n

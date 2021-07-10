@@ -6,7 +6,6 @@ redirect_from: /about.html
 ---
 
 ## Hi there 👋
-Introduce your self
 I'm huum4n
 
 # About Me

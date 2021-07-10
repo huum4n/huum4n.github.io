@@ -7,24 +7,20 @@ redirect_from: /about.html
 
 ## Hi there 👋
 Introduce your self
-I`m NrdyBhu1
+I'm huum4n
 
 # About Me
 Tell more about your self
-I am a passionate game dev 👨🏻‍💻 and i learnt many languages only to make games.
+I will post about stuff I'm learning
 
 Talk about your projects
 # My first project
-My first project was a prototype which was unfinished but still it was a game.
+
 
 Link your social accounts
 # Social Accounts
-[Itch.io](#) \
 [Patreon](#) \
-[Youtube](#) \
-[My Website](#) \
-[Gmail](#) \
-[Github](#)
+[Github](#) \ https://github.com/huum4n
 
 Show your github Stats
 # Stats

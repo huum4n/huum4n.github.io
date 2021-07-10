@@ -1,2 +1,3 @@
-# Atlas-jekyll-theme
+## Theme:
+- Atlas-jekyll-theme
 ![Preview](./atlas-normal.png)

@@ -2,7 +2,7 @@ title: huum4n's blog
 desciption: >
   A jekyll theme for personal website.
 email: disench4nted@protonmail.com
-baseurl: "/_posts" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://huum4n.github.io" 
 twitter_username: n/a
 github_username:  huum4n

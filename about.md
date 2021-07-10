@@ -15,6 +15,7 @@ I will post about stuff I'm learning
 
 Talk about your projects
 # My first project
+coming soon
 
 
 Link your social accounts

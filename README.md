@@ -1,4 +1,2 @@
-## Theme:
-- New edit
-- Atlas-jekyll-theme
-![Preview](./atlas-normal.png)
+# test redirect
+[index](/index.md)

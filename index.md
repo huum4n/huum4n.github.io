@@ -1,2 +1,2 @@
 # test
-[posts](posts/001test.md)
+[posts](/posts/001test.md)
